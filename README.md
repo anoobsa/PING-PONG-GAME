@@ -12,7 +12,7 @@ Use arrow keys to control the Right paddle:
  1. ↑ -Move Right paddle Upwards
  2. ↓ -Move Right paddle Downwards
  
-Use alphabet keys to control the Left paddle:
+Use alphabet keys to control the Left paddle:(make sure caps lock is off)
 
  1. 'W' -Move Left paddle Upwards
  2. 'S' -Move Left paddle Downwards
