@@ -21,6 +21,7 @@ Note:
 
  1. If turtle module is not present in your code runnning platform,then install turtle module and rerun the code.(Pycharm contains inbuilt turtle module)
  2. Dont run the files separtely. Run the MAIN file alone.
+ 3. Turtle graphics Documentation: https://docs.python.org/3/library/turtle.html
 
 About the Game:
 
