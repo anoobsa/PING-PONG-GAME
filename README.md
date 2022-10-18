@@ -42,4 +42,6 @@ There are 4  files in the project:
 3. Ball file consist of creating and moving the ball around the screen.
 4. Scoreboard file is to increase score to opponent player every time when you miss a ball between the paddle and also to print the score in the screen.
 
+Screenshot of game is given below:
+<img width="601" alt="Game" src="https://user-images.githubusercontent.com/109719075/196357839-caceacba-4313-49a3-a5ef-f1f7dd9cbb89.png">
 
