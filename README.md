@@ -35,7 +35,7 @@ About the files:
 Each files consist of separate classes to perfrom different tasks. 
 All the class are created and executed as Object in the main file..So run the main file alone.
 
-There are 4  files in the project
+There are 4  files in the project:
 
 1. Main is the file which is executed to run the program.
 2. Paddle file consist of code which deals with creating and moving the paddles.
